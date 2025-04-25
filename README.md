@@ -14,11 +14,13 @@ Savvy Shopper is a mobile application built with Expo and React Native, designed
 
 ## Sample UI
 
-![Image 1](assets/images/1.jpg)
-![Image 2](assets/images/2.jpg)
-![Image 3](assets/images/3.jpg)
-![Image 4](assets/images/4.jpg)
-![Image 5](assets/images/5.jpg)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/images/1.jpg" alt="Image 1" width="200" />
+  <img src="assets/images/2.jpg" alt="Image 2" width="200" />
+  <img src="assets/images/3.jpg" alt="Image 3" width="200" />
+  <img src="assets/images/4.jpg" alt="Image 4" width="200" />
+  <img src="assets/images/5.jpg" alt="Image 5" width="200" />
+</div>
 
 
 ## Prerequisites
